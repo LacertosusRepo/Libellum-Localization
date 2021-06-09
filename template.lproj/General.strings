@@ -1,0 +1,61 @@
+  /* Note Options Group Cell */
+"NOTE_OPTIONS_GROUP_CELL" = "";
+
+  /* Position */
+"POSITION_ABOVE_MEDIA" = "";
+"POSITION_BELOW_MEDIA" = "";
+
+  /* Endless Lines */
+"ENABLE_ENDLESS_LINES" = "";
+"ENABLE_ENDLESS_LINES_INFO_MESSAGE" = "";
+
+  /* Auto Hide */
+"AUTO_HIDE_NOTES" = "";
+"AUTO_HIDE_NOTES_INFO_MESSAGE" = "";
+
+  /* Auto Start Typing */
+"AUTO_START_TYPING" = "";
+"AUTO_START_TYPING_INFO_MESSAGE" = "";
+
+  /* Text Options Group Cell */
+"TEXT_OPTIONS_GROUP_CELL" = "";
+"TEXT_OPTIONS_FOOTER" = "";
+
+  /* Text Alignment */
+"TEXT_ALIGNMENT" = "";
+"LEFT_ALIGNMENT" = "";
+"CENTER_ALIGNMENT" = "";
+"RIGHT_ALIGNMENT" = "";
+
+  /* Font Size */
+"FONT_SIZE" = "";
+
+  /* ToolBar Options Group Cell */
+"TOOLBAR_OPTIONS_GROUP_CELL" = "";
+
+  /* Left Handed Mode */
+"LEFT_HANDED_MODE" = "";
+"LEFT_HANDED_MODE_INFO_MESSAGE" = "";
+
+  /* Show Page Management */
+"SHOW_PAGE_MANAGEMENT" = "";
+"SHOW_PAGE_MANAGEMENT_INFO_MESSAGE" = "";
+
+  /* Show Undo/Redo */
+"SHOW_UNDO_REDO" = "";
+"SHOW_UNDO_REDO_INFO_MESSAGE" = "";
+
+  /* Other Options Group Cell */
+"OTHER_OPTIONS" = "";
+
+  /* Hide Old Notification Text */
+"HIDE_OLD_NOTIFICATION_TEXT" = "";
+"HIDE_OLD_NOTIFICATION_TEXT_INFO_MESSAGE" = "";
+
+  /* Hide Quick Actions */
+"HIDE_QUICK_ACTIONS" = "";
+"HIDE_QUICK_ACTIONS_INFO_MESSAGE" = "";
+
+  /* Block AutoUnlockX */
+"BLOCK_AUTOUNLOCKX" = "";
+"BLOCK_AUTOUNLOCKX_INFO_MESSAGE" = "";

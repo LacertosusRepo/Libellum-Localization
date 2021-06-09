@@ -1,0 +1,30 @@
+  /* Alpha */
+"ALPHA" = "Alpha";
+
+  /* Kalm Tint Color */
+"USE_KALM_TINT_COLOR" = "Use Kalm Tint Color";
+
+  /* Ignore Adaptive Colors */
+"IGNORE_ADAPTIVE_COLORS" = "Ignore Adaptive Colors";
+"IGNORE_ADAPTIVE_COLORS_INFO_MESSAGE" = "This option will ignore the default colors used by the adaptive style. Instead, Libellum will use the custom colors you have set for the font and lock icon.";
+
+  /* Background Color */
+"SET_BACKGROUND_COLOR" = "Set Background Color";
+
+  /* Font Color */
+"SET_FONT_COLOR" = "Set Font Color";
+
+  /* Lock Color */
+"SET_LOCK_ICON_COLOR" = "Set Lock Icon Color";
+
+  /* Tint Color */
+"SET_TINT_COLOR" = "Set Tint Color";
+
+  /* Border Group Cell */
+"BORDER_GROUP_CELL" = "Border Options";
+
+  /* Border Color */
+"SET_BORDER_COLOR" = "Set Border Color";
+
+  /* Border Width */
+"BORDER_WIDTH" = "Border Width";

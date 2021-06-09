@@ -1,0 +1,55 @@
+  /* Size */
+"TINY_NOTE_SIZE" = "";
+"COMPACT_NOTE_SIZE" = "";
+"MEDIUM_NOTE_SIZE" = "";
+"LARGE_NOTE_SIZE" = "";
+
+  /* Style */
+"LIGHT_STYLE_MODE" = "";
+"DARK_STYLE_MODE" = "";
+"COLORIZED_STYLE_MODE" = "";
+"ADAPTIVE_STYLE_MODE" = "";
+
+  /* Corner Radius */
+"CORNER_RADIUS" = "";
+
+  /* Color Options */
+"COLOR_OPTIONS" = "";
+
+  /* General Options */
+"GENERAL_OPTIONS" = "";
+
+  /* Securty & Backup Group Cell */
+"SECURITY_BACKUP_GROUP_CELL" = "";
+
+  /* Require Authentication */
+"REQUIRE_AUTHENTICATION" = "";
+"REQUIRE_AUTHENTICATION_INFO_MESSAGE" = "";
+
+  /* Enable Note Backup */
+"ENABLE_NOTE_BACKUP" = "";
+"ENABLE_NOTE_BACKUP_INFO_MESSAGE" = "";
+
+  /* Manage Backup */
+"MANAGE_BACKUP" = "";
+
+  /* Note Visibility Gestures Group Cell */
+"NOTE_VISIBILITY_GESTURES_GROUP_CELL" = "";
+
+  /* Enable Gestures */
+"ENABLE_GESTURES" = "";
+
+  /* Gesture Options */
+"GESTURE_OPTIONS" = "";
+
+  /* Support Group Cell */
+"SUPPORT_GROUP_CELL" = "";
+
+  /* Credits */
+"CREDITS" = "";
+
+  /* Github Detail */
+"GITHUB_DETAIL" = "";
+
+  /* PayPal Detail */
+"PAYPAL_DETAIL" = "";

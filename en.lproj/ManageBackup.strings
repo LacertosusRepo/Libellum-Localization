@@ -1,0 +1,39 @@
+  /* Generic */
+"CONFIRM" = "Confirm";
+"CANCEL" = "Nevermind";
+
+  /* Backup Management */
+"BACKUP_MANAGEMENT" = "Backup Management";
+
+  /* Backup Description */
+"BACKUP_DESCRUPTION" = "Manage the backup of your notes here.";
+
+  /* View Backup */
+"VIEW_BACKUP" = "View Backup";
+
+  /* Backup Now */
+"BACKUP_NOW" = "Backup Now";
+
+  /* Restore */
+"RESTORE_BACKUP" = "Restore from Backup";
+
+  /* Delete */
+"DELETE_BACKUP" = "Delete Backup";
+
+  /* Done */
+"DONE" = "Done";
+
+  /* Action Feedback */
+"ERROR_VIEWING_BACKUP" = "Error viewing backed up notes";
+"NO_EXISTING_BACKUP" = "No exisiting note backup.";
+"BACKUP_SUCCESSFUL" = "Backup successful!";
+"BACKUP_NO_NOTES" = "No notes are available to backup.";
+
+  /* Restore Alert */
+"RESTORE_MESSAGE" = "Are you sure you want to restore the backup of your notes? This will delete your current notes and respring your device.";
+"RESTORE_NO_NOTES" = "There is no backup to restore from.";
+
+  /* Delete Alert */
+"DELETE_MESSAGE" = "Are you sure you want to delete the backup of your notes?";
+"DELETE_SUCCESSFUL" = "Backup deleted successfully!";
+"DELETE_NO_NOTES" = "There is no backup to delete.";

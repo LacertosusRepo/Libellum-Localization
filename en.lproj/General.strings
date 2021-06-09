@@ -1,0 +1,61 @@
+  /* Note Options Group Cell */
+"NOTE_OPTIONS_GROUP_CELL" = "Note Options";
+
+  /* Position */
+"POSITION_ABOVE_MEDIA" = "Above Media Controls";
+"POSITION_BELOW_MEDIA" = "Below Media Controls";
+
+  /* Endless Lines */
+"ENABLE_ENDLESS_LINES" = "Enable Endless Lines";
+"ENABLE_ENDLESS_LINES_INFO_MESSAGE" = "This option will let you type past the normal amount of lines the size allows.\n\nWARNING: If a note lapses the size of the notepad and you disable this option, you will no longer be able to add to your note. Delete the text until it fits, increase the size, or turn this option on to allow adding more text.";
+
+  /* Auto Hide */
+"AUTO_HIDE_NOTES" = "Auto Hide Notes";
+"AUTO_HIDE_NOTES_INFO_MESSAGE" = "This option will automatically hide Libellum if there is only one note and it has no text.\n\nRequires \"Gestures\" to be enabled.";
+
+  /* Auto Start Typing */
+"AUTO_START_TYPING" = "Auto Start Typing";
+"AUTO_START_TYPING_INFO_MESSAGE" = "This option will automatically show the keyboard for Libellum once it has been made visible if there is only one note and it has no text.\n\nThis will only work if the device is already authenticated or if 'Require Authentication' is disabled.";
+
+  /* Text Options Group Cell */
+"TEXT_OPTIONS_GROUP_CELL" = "Text Options";
+"TEXT_OPTIONS_FOOTER" = "The default font size is 14";
+
+  /* Text Alignment */
+"TEXT_ALIGNMENT" = "Text Alignment";
+"LEFT_ALIGNMENT" = "Left";
+"CENTER_ALIGNMENT" = "Center";
+"RIGHT_ALIGNMENT" = "Right";
+
+  /* Font Size */
+"FONT_SIZE" = "Font Size";
+
+  /* ToolBar Options Group Cell */
+"TOOLBAR_OPTIONS_GROUP_CELL" = "ToolBar Options";
+
+  /* Left Handed Mode */
+"LEFT_HANDED_MODE" = "Left Handed Mode";
+"LEFT_HANDED_MODE_INFO_MESSAGE" = "This option will invert the order of the toolbar buttons to allow left-handed users to reach the the buttons easier.";
+
+  /* Show Page Management */
+"SHOW_PAGE_MANAGEMENT" = "Show Page Management";
+"SHOW_PAGE_MANAGEMENT_INFO_MESSAGE" = "This option toggles the add and remove page buttons on the toolbar";
+
+  /* Show Undo/Redo */
+"SHOW_UNDO_REDO" = "Show Undo/Redo";
+"SHOW_UNDO_REDO_INFO_MESSAGE" = "This option toggles the undo and redo buttons on the toolbar.";
+
+  /* Other Options Group Cell */
+"OTHER_OPTIONS" = "Other Options";
+
+  /* Hide Old Notification Text */
+"HIDE_OLD_NOTIFICATION_TEXT" = "Hide Old Notification Text";
+"HIDE_OLD_NOTIFICATION_TEXT_INFO_MESSAGE" = "This option will hide the \"No Older Notifications\" label on the lockscreen.";
+
+  /* Hide Quick Actions */
+"HIDE_QUICK_ACTIONS" = "Hide Quick Actions";
+"HIDE_QUICK_ACTIONS_INFO_MESSAGE" = "This option will hide the flashlight and camera quick actions from the lockscreen when the device is in portrait.";
+
+  /* Block AutoUnlockX */
+"BLOCK_AUTOUNLOCKX" = "Block AutoUnlockX";
+"BLOCK_AUTOUNLOCKX_INFO_MESSAGE" = "This option will prevent AutoUnlockX from unlocking your device only when Libellum is visible on the lockscreen.";

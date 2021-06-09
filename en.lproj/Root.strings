@@ -1,0 +1,55 @@
+  /* Size */
+"TINY_NOTE_SIZE" = "Tiny";
+"COMPACT_NOTE_SIZE" = "Compact";
+"MEDIUM_NOTE_SIZE" = "Medium";
+"LARGE_NOTE_SIZE" = "Large";
+
+  /* Style */
+"LIGHT_STYLE_MODE" = "Light Mode";
+"DARK_STYLE_MODE" = "Dark Mode";
+"COLORIZED_STYLE_MODE" = "Colorized";
+"ADAPTIVE_STYLE_MODE" = "Adaptive";
+
+  /* Corner Radius */
+"CORNER_RADIUS" = "Corner Radius";
+
+  /* Color Options */
+"COLOR_OPTIONS" = "Color Options";
+
+  /* General Options */
+"GENERAL_OPTIONS" = "General Options";
+
+  /* Securty & Backup Group Cell */
+"SECURITY_BACKUP_GROUP_CELL" = "Securty & Backup";
+
+  /* Require Authentication */
+"REQUIRE_AUTHENTICATION" = "Require Authentication";
+"REQUIRE_AUTHENTICATION_INFO_MESSAGE" = "This option will prevent viewing or editing notes until the device is unlocked with Face ID, Touch ID, or the passcode.";
+
+  /* Enable Note Backup */
+"ENABLE_NOTE_BACKUP" = "Enable Note Backup";
+"ENABLE_NOTE_BACKUP_INFO_MESSAGE" = "This option will backup your notes once per respring.";
+
+  /* Manage Backup */
+"MANAGE_BACKUP" = "Manage Backup";
+
+  /* Note Visibility Gestures Group Cell */
+"NOTE_VISIBILITY_GESTURES_GROUP_CELL" = "Note Visibility Gestures";
+
+  /* Enable Gestures */
+"ENABLE_GESTURES" = "Enable Gestures";
+
+  /* Gesture Options */
+"GESTURE_OPTIONS" = "Gesture Options";
+
+  /* Support Group Cell */
+"SUPPORT_GROUP_CELL" = "Support";
+
+  /* Credits */
+"CREDITS" = "Credits";
+
+  /* Github Detail */
+"GITHUB_DETAIL" = "Find the source code here!";
+
+  /* PayPal Detail */
+"PAYPAL_DETAIL" = "Feed my Steam sale addiction!";
