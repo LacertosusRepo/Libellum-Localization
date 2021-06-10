@@ -24,7 +24,7 @@
 
   /* Require Authentication */
 "REQUIRE_AUTHENTICATION" = "Requiert l'Authentification";
-"REQUIRE_AUTHENTICATION_INFO_MESSAGE" = "Cette option évitera l'affichage ou l'édition de vos notes tant l'appareil n'est pas déverrouillé avec Face ID, Touch ID, ou le mot de passe.";
+"REQUIRE_AUTHENTICATION_INFO_MESSAGE" = "Cette option évitera l'affichage ou l'édition de vos notes tant que l'appareil n'est pas déverrouillé avec Face ID, Touch ID, ou le mot de passe.";
 
   /* Enable Note Backup */
 "ENABLE_NOTE_BACKUP" = "Activer la sauvegarde des Notes";

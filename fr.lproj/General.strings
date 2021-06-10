@@ -11,11 +11,11 @@
 
   /* Auto Hide */
 "AUTO_HIDE_NOTES" = "Masquer les Notes automatiquement";
-"AUTO_HIDE_NOTES_INFO_MESSAGE" = "Cette option masquera automatiquement Libellum s'il n'y a qu'une note et qu'elle n'a pas de texte.\n\nRequiert l'activation de \"Gestes\".";
+"AUTO_HIDE_NOTES_INFO_MESSAGE" = "Cette option masquera automatiquement Libellum s'il n'y a qu'une note et qu'elle n'a pas de texte.\n\nRequiert l'activation des Gestes.";
 
   /* Auto Start Typing */
 "AUTO_START_TYPING" = "Commencer à taper automatiquement";
-"AUTO_START_TYPING_INFO_MESSAGE" = "Cette option affichera automatiquement le clavier pour Libellum dès qu'il est visible s'il n'y a qu'une note et qu'elle n'a pas de texte.\n\nCela ne fonctionnera que si l'appareil est déverouillé ou si l'option 'Requiert l'Authentification' est désactivée.";
+"AUTO_START_TYPING_INFO_MESSAGE" = "Cette option affichera automatiquement le clavier pour Libellum dès qu'il est visible s'il n'y a qu'une note et qu'elle n'a pas de texte.\n\nCela ne fonctionnera que si l'appareil est déverrouillé ou si l'option \"Requiert l'Authentification\" est désactivée.";
 
   /* Text Options Group Cell */
 "TEXT_OPTIONS_GROUP_CELL" = "Options de texte";
@@ -39,7 +39,7 @@
 
   /* Show Page Management */
 "SHOW_PAGE_MANAGEMENT" = "Afficher la gestion de pages";
-"SHOW_PAGE_MANAGEMENT_INFO_MESSAGE" = "Cette option activera les boutons ajouter et enlever une page dans la barre d'outils";
+"SHOW_PAGE_MANAGEMENT_INFO_MESSAGE" = "Cette option activera les boutons Ajouter et Enlever une page dans la barre d'outils.";
 
   /* Show Undo/Redo */
 "SHOW_UNDO_REDO" = "Afficher Annuler/Rétablir";
