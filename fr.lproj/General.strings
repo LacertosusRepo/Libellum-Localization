@@ -1,0 +1,61 @@
+  /* Note Options Group Cell */
+"NOTE_OPTIONS_GROUP_CELL" = "Options de la note";
+
+  /* Position */
+"POSITION_ABOVE_MEDIA" = "Au-dessus du lecteur de musique";
+"POSITION_BELOW_MEDIA" = "En dessous du lecteur de musique";
+
+  /* Endless Lines */
+"ENABLE_ENDLESS_LINES" = "Activer les lignes sans fin";
+"ENABLE_ENDLESS_LINES_INFO_MESSAGE" = "Cette option vous laissera taper au delà de la limite habituelle qu'une ligne autorise.\n\nATTENTION : Si une note dépasse la taille du notepad et que vous désactivez cette option, vous ne pourrez plus ajouter du texte à cette note. Supprimez du texte pour que ça ne dépasse plus, augmentez la taille, ou activez cette option pour permettre d'ajouter plus de texte.";
+
+  /* Auto Hide */
+"AUTO_HIDE_NOTES" = "Masquer les Notes automatiquement";
+"AUTO_HIDE_NOTES_INFO_MESSAGE" = "Cette option masquera automatiquement Libellum s'il n'y a qu'une note et qu'elle n'a pas de texte.\n\nRequiert l'activation de \"Gestes\".";
+
+  /* Auto Start Typing */
+"AUTO_START_TYPING" = "Commencer à taper automatiquement";
+"AUTO_START_TYPING_INFO_MESSAGE" = "Cette option affichera automatiquement le clavier pour Libellum dès qu'il est visible s'il n'y a qu'une note et qu'elle n'a pas de texte.\n\nCela ne fonctionnera que si l'appareil est déverouillé ou si l'option 'Requiert l'Authentification' est désactivée.";
+
+  /* Text Options Group Cell */
+"TEXT_OPTIONS_GROUP_CELL" = "Options de texte";
+"TEXT_OPTIONS_FOOTER" = "La taille de police par défaut est 14";
+
+  /* Text Alignment */
+"TEXT_ALIGNMENT" = "Alignement du texte";
+"LEFT_ALIGNMENT" = "Gauche";
+"CENTER_ALIGNMENT" = "Centre";
+"RIGHT_ALIGNMENT" = "Droite";
+
+  /* Font Size */
+"FONT_SIZE" = "Taille de police";
+
+  /* ToolBar Options Group Cell */
+"TOOLBAR_OPTIONS_GROUP_CELL" = "Options de la Barre d'Outils";
+
+  /* Left Handed Mode */
+"LEFT_HANDED_MODE" = "Mode Gaucher";
+"LEFT_HANDED_MODE_INFO_MESSAGE" = "Cette option inversera l'ordre des boutons dans la barre d'outils pour permettre aux gauchers d'atteindre les boutons plus facilement.";
+
+  /* Show Page Management */
+"SHOW_PAGE_MANAGEMENT" = "Afficher la gestion de pages";
+"SHOW_PAGE_MANAGEMENT_INFO_MESSAGE" = "Cette option activera les boutons ajouter et enlever une page dans la barre d'outils";
+
+  /* Show Undo/Redo */
+"SHOW_UNDO_REDO" = "Afficher Annuler/Rétablir";
+"SHOW_UNDO_REDO_INFO_MESSAGE" = "Cette option affichera les boutons Annuler et Rétablir dans la barre d'outils.";
+
+  /* Other Options Group Cell */
+"OTHER_OPTIONS" = "Autres Options";
+
+  /* Hide Old Notification Text */
+"HIDE_OLD_NOTIFICATION_TEXT" = "Cacher le texte \"Aucune Autre Notification\"";
+"HIDE_OLD_NOTIFICATION_TEXT_INFO_MESSAGE" = "Cette option cachera le texte \"Aucune Autre Notification\" sur l'écran de verrouillage.";
+
+  /* Hide Quick Actions */
+"HIDE_QUICK_ACTIONS" = "Cacher les Actions Rapides";
+"HIDE_QUICK_ACTIONS_INFO_MESSAGE" = "Cette option cachera les boutons de lampe torche et de caméra de l'écran de verrouillage quand l'appareil est en mode portrait.";
+
+  /* Block AutoUnlockX */
+"BLOCK_AUTOUNLOCKX" = "Bloquer AutoUnlockX";
+"BLOCK_AUTOUNLOCKX_INFO_MESSAGE" = "Cette option évitera à AutoUnlockX de déverrouiller votre appareil quand Libellum est visible sur l'écran de verrouillage.";
