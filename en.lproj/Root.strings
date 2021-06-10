@@ -20,7 +20,7 @@
 "GENERAL_OPTIONS" = "General Options";
 
   /* Securty & Backup Group Cell */
-"SECURITY_BACKUP_GROUP_CELL" = "Securty & Backup";
+"SECURITY_BACKUP_GROUP_CELL" = "Security & Backup";
 
   /* Require Authentication */
 "REQUIRE_AUTHENTICATION" = "Require Authentication";

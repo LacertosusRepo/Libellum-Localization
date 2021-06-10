@@ -1,0 +1,39 @@
+  /* Generic */
+"CONFIRM" = "Confirmer";
+"CANCEL" = "Annuler";
+
+  /* Backup Management */
+"BACKUP_MANAGEMENT" = "Gestion des sauvegardes";
+
+  /* Backup Description */
+"BACKUP_DESCRUPTION" = "Gérer les options de sauvegarde ici.";
+
+  /* View Backup */
+"VIEW_BACKUP" = "Afficher la Sauvegarde";
+
+  /* Backup Now */
+"BACKUP_NOW" = "Sauvegarder maintenant";
+
+  /* Restore */
+"RESTORE_BACKUP" = "Restaurer la sauvegarde";
+
+  /* Delete */
+"DELETE_BACKUP" = "Supprimer la sauvegarde";
+
+  /* Done */
+"DONE" = "Terminé";
+
+  /* Action Feedback */
+"ERROR_VIEWING_BACKUP" = "Erreur lors de la lecture de votre sauvegarde";
+"NO_EXISTING_BACKUP" = "Aucune sauvegarde existante.";
+"BACKUP_SUCCESSFUL" = "Sauvegardé avec succès !";
+"BACKUP_NO_NOTES" = "Aucune note n'est disponible pour la sauvegarde.";
+
+  /* Restore Alert */
+"RESTORE_MESSAGE" = "Voulez-vous vraiment restaurer la sauvegarde de vos notes ? Cela supprimera vos notes actuelles et respringera votre appareil.";
+"RESTORE_NO_NOTES" = "Il n'y a aucune sauvegarde à restaurer.";
+
+  /* Delete Alert */
+"DELETE_MESSAGE" = "Voulez-vous vraiment supprimer la sauvegarde de vos notes ?";
+"DELETE_SUCCESSFUL" = "Sauvegarde supprimée avec succès !";
+"DELETE_NO_NOTES" = "Il n'y a aucune sauvegarde à supprimer.";
