@@ -6,7 +6,7 @@
 "BACKUP_MANAGEMENT" = "Gestion des sauvegardes";
 
   /* Backup Description */
-"BACKUP_DESCRUPTION" = "Gérer les options de sauvegarde ici.";
+"BACKUP_DESCRIPTION" = "Gérer les options de sauvegarde ici.";
 
   /* View Backup */
 "VIEW_BACKUP" = "Afficher la Sauvegarde";
