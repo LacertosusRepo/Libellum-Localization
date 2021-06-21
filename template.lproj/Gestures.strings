@@ -1,0 +1,16 @@
+  /* Gesture Feedback */
+"GESTURE_FEEDBACK" = "";
+
+  /* Feedback Options */
+"LIGHT_FEEDBACK" = "";
+"HEAVY_FEEDBACK" = "";
+"TRIPLE_FEEBACK" = "";
+
+  /* Left Swipe Gesture */
+"LEFT_SWIPE_GESTURE" = "";
+
+  /* Left Swipe Gesture */
+"TRIPLE_TAP_GESTURE" = "";
+
+  /* Left Swipe Gesture */
+"EDGE_SWIPE_GESTURE" = "";

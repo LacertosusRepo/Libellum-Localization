@@ -1,0 +1,16 @@
+  /* Gesture Feedback */
+"GESTURE_FEEDBACK" = "Gesture Feedback";
+
+  /* Feedback Options */
+"LIGHT_FEEDBACK" = "Light";
+"HEAVY_FEEDBACK" = "Heavy";
+"TRIPLE_FEEBACK" = "Triple";
+
+  /* Left Swipe Gesture */
+"LEFT_SWIPE_GESTURE" = "Left Swipe on Notes";
+
+  /* Left Swipe Gesture */
+"TRIPLE_TAP_GESTURE" = "Triple Tap LockScreen";
+
+  /* Left Swipe Gesture */
+"EDGE_SWIPE_GESTURE" = "Top Left Edge Swipe In";
