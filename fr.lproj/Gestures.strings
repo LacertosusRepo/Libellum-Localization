@@ -8,9 +8,11 @@
 
   /* Left Swipe Gesture */
 "LEFT_SWIPE_GESTURE" = "Glissez sur les notes";
+"LEFT_SWIPE_GESTURE_INFO_MESSAGE" = "S'il y a plus d'une page de notes, ce geste ne fonctionnera pas.";
 
   /* Left Swipe Gesture */
 "TRIPLE_TAP_GESTURE" = "Appuyez trois fois LockScreen";
 
   /* Left Swipe Gesture */
 "EDGE_SWIPE_GESTURE" = "Balayage du bord gauche";
+"EDGE_SWIPE_GESTURE_INFO_MESSAGE" = "Faites glisser à partir du bord supérieur sur le côté gauche.";
