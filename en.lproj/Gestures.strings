@@ -8,9 +8,11 @@
 
   /* Left Swipe Gesture */
 "LEFT_SWIPE_GESTURE" = "Left Swipe on Notes";
+"LEFT_SWIPE_GESTURE_INFO_MESSAGE" = "If there is more than one page of notes this gesture will not work.";
 
   /* Left Swipe Gesture */
 "TRIPLE_TAP_GESTURE" = "Triple Tap LockScreen";
 
   /* Left Swipe Gesture */
 "EDGE_SWIPE_GESTURE" = "Top Left Edge Swipe In";
+"EDGE_SWIPE_GESTURE_INFO_MESSAGE" = "Swipe in from top edge on the left side.";
