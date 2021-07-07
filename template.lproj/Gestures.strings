@@ -8,9 +8,11 @@
 
   /* Left Swipe Gesture */
 "LEFT_SWIPE_GESTURE" = "";
+"LEFT_SWIPE_GESTURE_INFO_MESSAGE" = "";
 
   /* Left Swipe Gesture */
 "TRIPLE_TAP_GESTURE" = "";
 
   /* Left Swipe Gesture */
 "EDGE_SWIPE_GESTURE" = "";
+"EDGE_SWIPE_GESTURE_INFO_MESSAGE" = "";
