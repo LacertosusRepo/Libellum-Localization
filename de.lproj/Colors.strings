@@ -1,30 +1,30 @@
   /* Alpha */
-"ALPHA" = "";
+"ALPHA" = "Alpha";
 
   /* Kalm Tint Color */
-"USE_KALM_TINT_COLOR" = "";
+"USE_KALM_TINT_COLOR" = "Verwende Kalm-Tönungsfarbe";
 
   /* Ignore Adaptive Colors */
-"IGNORE_ADAPTIVE_COLORS" = "";
-"IGNORE_ADAPTIVE_COLORS_INFO_MESSAGE" = "";
+"IGNORE_ADAPTIVE_COLORS" = "Adaptive Farben ignorieren";
+"IGNORE_ADAPTIVE_COLORS_INFO_MESSAGE" = "Diese Option ignoriert die vom adaptiven Stil verwendeten Standardfarben. Stattdessen verwendet Libellum die benutzerdefinierten Farben, die Sie für die Schriftart und das Sperrsymbol festgelegt haben.";
 
   /* Background Color */
-"SET_BACKGROUND_COLOR" = "";
+"SET_BACKGROUND_COLOR" = "Hintergrundfarbe einstellen";
 
   /* Font Color */
-"SET_FONT_COLOR" = "";
+"SET_FONT_COLOR" = "Schriftfarbe einstellen";
 
   /* Lock Color */
-"SET_LOCK_ICON_COLOR" = "";
+"SET_LOCK_ICON_COLOR" = "Farbe des Sperrsymbols festlegen";
 
   /* Tint Color */
-"SET_TINT_COLOR" = "";
+"SET_TINT_COLOR" = "Tönungsfarbe einstellen";
 
   /* Border Group Cell */
-"BORDER_GROUP_CELL" = "";
+"BORDER_GROUP_CELL" = "Rahmen-Einstellungen";
 
   /* Border Color */
-"SET_BORDER_COLOR" = "";
+"SET_BORDER_COLOR" = "Rahmenfarbe einstellen";
 
   /* Border Width */
-"BORDER_WIDTH" = "";
+"BORDER_WIDTH" = "Rahmenbreite";
