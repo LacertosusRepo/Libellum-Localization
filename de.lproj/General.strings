@@ -1,61 +1,67 @@
   /* Note Options Group Cell */
-"NOTE_OPTIONS_GROUP_CELL" = "";
+"NOTE_OPTIONS_GROUP_CELL" = "Notiz-Optionen";
 
   /* Position */
-"POSITION_ABOVE_MEDIA" = "";
-"POSITION_BELOW_MEDIA" = "";
+"POSITION_ABOVE_MEDIA" = "Oberhalb der Mediensteuerung";
+"POSITION_BELOW_MEDIA" = "Unterhalb der Mediensteuerung";
 
   /* Endless Lines */
-"ENABLE_ENDLESS_LINES" = "";
-"ENABLE_ENDLESS_LINES_INFO_MESSAGE" = "";
+"ENABLE_ENDLESS_LINES" = "Endlose Linien aktivieren";
+"ENABLE_ENDLESS_LINES_INFO_MESSAGE" = "Mit dieser Option können Sie über die normale Anzahl von Zeilen hinaus schreiben, die die Größe zulässt.
+
+WARNUNG: Wenn eine Notiz die Größe des Notizblocks überschreitet und Sie diese Option deaktivieren, können Sie Ihrer Notiz nichts mehr hinzufügen. Löschen Sie den Text, bis er passt, erhöhen Sie die Größe oder aktivieren Sie diese Option, um das Hinzufügen von mehr Text zu ermöglichen";
 
   /* Auto Hide */
-"AUTO_HIDE_NOTES" = "";
-"AUTO_HIDE_NOTES_INFO_MESSAGE" = "";
+"AUTO_HIDE_NOTES" = "Notizen automatisch ausblenden";
+"AUTO_HIDE_NOTES_INFO_MESSAGE" = "Diese Option blendet Libellum automatisch aus, wenn nur eine Notiz vorhanden ist und diese keinen Text enthält.
+
+Erfordert die Aktivierung von "Gesten".";
 
   /* Auto Start Typing */
-"AUTO_START_TYPING" = "";
-"AUTO_START_TYPING_INFO_MESSAGE" = "";
+"AUTO_START_TYPING" = "Auto-Start-Eingabe";
+"AUTO_START_TYPING_INFO_MESSAGE" = "Diese Option zeigt automatisch die Tastatur für Libellum an, sobald sie sichtbar gemacht wurde, wenn nur eine Notiz und kein Text vorhanden ist.
+
+Dies funktioniert nur, wenn das Gerät bereits authentifiziert ist oder wenn „Authentifizierung erforderlich“ deaktiviert ist.";
 
   /* Text Options Group Cell */
-"TEXT_OPTIONS_GROUP_CELL" = "";
-"TEXT_OPTIONS_FOOTER" = "";
+"TEXT_OPTIONS_GROUP_CELL" = "Text-Optionen";
+"TEXT_OPTIONS_FOOTER" = "Die Standardschriftgröße ist 14.";
 
   /* Text Alignment */
-"TEXT_ALIGNMENT" = "";
-"LEFT_ALIGNMENT" = "";
-"CENTER_ALIGNMENT" = "";
-"RIGHT_ALIGNMENT" = "";
+"TEXT_ALIGNMENT" = "Textausrichtung";
+"LEFT_ALIGNMENT" = "Links";
+"CENTER_ALIGNMENT" = "Mitte";
+"RIGHT_ALIGNMENT" = "Rechts";
 
   /* Font Size */
-"FONT_SIZE" = "";
+"FONT_SIZE" = "Schriftgröße";
 
   /* ToolBar Options Group Cell */
-"TOOLBAR_OPTIONS_GROUP_CELL" = "";
+"TOOLBAR_OPTIONS_GROUP_CELL" = "ToolBar-Optionen";
 
   /* Left Handed Mode */
-"LEFT_HANDED_MODE" = "";
-"LEFT_HANDED_MODE_INFO_MESSAGE" = "";
+"LEFT_HANDED_MODE" = "Linkshänder-Modus";
+"LEFT_HANDED_MODE_INFO_MESSAGE" = "Diese Option blendet die Taschenlampe- und Kamera-Schnellaktionen auf dem Sperrbildschirm aus, wenn sich das Gerät im Hochformat befindet";
 
   /* Show Page Management */
-"SHOW_PAGE_MANAGEMENT" = "";
-"SHOW_PAGE_MANAGEMENT_INFO_MESSAGE" = "";
+"SHOW_PAGE_MANAGEMENT" = "Seitenverwaltung anzeigen";
+"SHOW_PAGE_MANAGEMENT_INFO_MESSAGE" = "Diese Option schaltet die Schaltflächen zum Hinzufügen und Entfernen von Seiten in der Symbolleiste um.";
 
   /* Show Undo/Redo */
-"SHOW_UNDO_REDO" = "";
-"SHOW_UNDO_REDO_INFO_MESSAGE" = "";
+"SHOW_UNDO_REDO" = "Rückgängig/Wiederherstellen anzeigen";
+"SHOW_UNDO_REDO_INFO_MESSAGE" = "Diese Option schaltet die Schaltflächen Rückgängig und Wiederherstellen in der Symbolleiste um.";
 
   /* Other Options Group Cell */
-"OTHER_OPTIONS" = "";
+"OTHER_OPTIONS" = "Andere Optionen";
 
   /* Hide Old Notification Text */
-"HIDE_OLD_NOTIFICATION_TEXT" = "";
-"HIDE_OLD_NOTIFICATION_TEXT_INFO_MESSAGE" = "";
+"HIDE_OLD_NOTIFICATION_TEXT" = "Alte Benachrichtigungen ausblenden";
+"HIDE_OLD_NOTIFICATION_TEXT_INFO_MESSAGE" = "Diese Option blendet "Keine älteren Benachrichtigungen" auf dem Sperrbildschirm aus.";
 
   /* Hide Quick Actions */
-"HIDE_QUICK_ACTIONS" = "";
-"HIDE_QUICK_ACTIONS_INFO_MESSAGE" = "";
+"HIDE_QUICK_ACTIONS" = "Schnellaktionen ausblenden";
+"HIDE_QUICK_ACTIONS_INFO_MESSAGE" = "Diese Option blendet die Taschenlampe- und Kamera-Schnellaktionen auf dem Sperrbildschirm aus, wenn sich das Gerät im Hochformat befindet.";
 
   /* Block AutoUnlockX */
-"BLOCK_AUTOUNLOCKX" = "";
-"BLOCK_AUTOUNLOCKX_INFO_MESSAGE" = "";
+"BLOCK_AUTOUNLOCKX" = "AutoUnlockX blockieren";
+"BLOCK_AUTOUNLOCKX_INFO_MESSAGE" = "Diese Option verhindert, dass AutoUnlockX Ihr Gerät nur dann entsperrt, wenn Libellum auf dem Sperrbildschirm sichtbar ist.";
