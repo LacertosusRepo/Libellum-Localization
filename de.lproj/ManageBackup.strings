@@ -1,39 +1,39 @@
   /* Generic */
-"CONFIRM" = "";
-"CANCEL" = "";
+"CONFIRM" = "Bestätigen";
+"CANCEL" = "Abbrechen";
 
   /* Backup Management */
-"BACKUP_MANAGEMENT" = "";
+"BACKUP_MANAGEMENT" = "Backup-Verwaltung";
 
   /* Backup Description */
-"BACKUP_DESCRIPTION" = "";
+"BACKUP_DESCRIPTION" = "Verwalte hier das Backup deiner Notizen.";
 
   /* View Backup */
-"VIEW_BACKUP" = "";
+"VIEW_BACKUP" = "Backup anzeigen";
 
   /* Backup Now */
-"BACKUP_NOW" = "";
+"BACKUP_NOW" = "Jetzt sichern";
 
   /* Restore */
-"RESTORE_BACKUP" = "";
+"RESTORE_BACKUP" = "Vom Backup wiederherstellen";
 
   /* Delete */
-"DELETE_BACKUP" = "";
+"DELETE_BACKUP" = "Backup löschen";
 
   /* Done */
-"DONE" = "";
+"DONE" = "Fertig";
 
   /* Action Feedback */
-"ERROR_VIEWING_BACKUP" = "";
-"NO_EXISTING_BACKUP" = "";
-"BACKUP_SUCCESSFUL" = "";
-"BACKUP_NO_NOTES" = "";
+"ERROR_VIEWING_BACKUP" = "Fehler beim Anzeigen der gesicherten Notizen";
+"NO_EXISTING_BACKUP" = "Keine vorhandene Notizsicherung.";
+"BACKUP_SUCCESSFUL" = "Backup erfolgreich!";
+"BACKUP_NO_NOTES" = "Es sind keine Notizen zum Sichern verfügbar.";
 
   /* Restore Alert */
-"RESTORE_MESSAGE" = "";
-"RESTORE_NO_NOTES" = "";
+"RESTORE_MESSAGE" = "Möchtest du das Backup deiner Notizen wirklich wiederherstellen? Dadurch werden Ihre aktuellen Notizen gelöscht und ein Respring durchgeführt.";
+"RESTORE_NO_NOTES" = "Es gibt kein Backup zum Wiederherstellen.";
 
   /* Delete Alert */
-"DELETE_MESSAGE" = "";
-"DELETE_SUCCESSFUL" = "";
-"DELETE_NO_NOTES" = "";
+"DELETE_MESSAGE" = "Möchtest du das Backup deiner Notizen wirklich löschen?";
+"DELETE_SUCCESSFUL" = "Backup erfolgreich gelöscht!";
+"DELETE_NO_NOTES" = "Es gibt kein Backup zum Löschen.";
