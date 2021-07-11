@@ -1,18 +1,18 @@
   /* Gesture Feedback */
-"GESTURE_FEEDBACK" = "";
+"GESTURE_FEEDBACK" = "Gesten-Feedback";
 
   /* Feedback Options */
-"LIGHT_FEEDBACK" = "";
-"HEAVY_FEEDBACK" = "";
-"TRIPLE_FEEBACK" = "";
+"LIGHT_FEEDBACK" = "Leicht";
+"HEAVY_FEEDBACK" = "Fest";
+"TRIPLE_FEEBACK" = "Dreifach";
 
   /* Left Swipe Gesture */
-"LEFT_SWIPE_GESTURE" = "";
-"LEFT_SWIPE_GESTURE_INFO_MESSAGE" = "";
+"LEFT_SWIPE_GESTURE" = "Auf Notizen nach links wischen";
+"LEFT_SWIPE_GESTURE_INFO_MESSAGE" = "Wenn mehr als eine Seite mit Notizen vorhanden ist, funktioniert diese Geste nicht.";
 
   /* Left Swipe Gesture */
-"TRIPLE_TAP_GESTURE" = "";
+"TRIPLE_TAP_GESTURE" = "Sperrbildschirm dreimal antippen";
 
   /* Left Swipe Gesture */
-"EDGE_SWIPE_GESTURE" = "";
-"EDGE_SWIPE_GESTURE_INFO_MESSAGE" = "";
+"EDGE_SWIPE_GESTURE" = "Von linke Ecke wischen";
+"EDGE_SWIPE_GESTURE_INFO_MESSAGE" = "Wischen Sie von der oberen Kante auf der linken Seite nach innen.";
