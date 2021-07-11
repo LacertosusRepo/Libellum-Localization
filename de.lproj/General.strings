@@ -7,21 +7,15 @@
 
   /* Endless Lines */
 "ENABLE_ENDLESS_LINES" = "Endlose Linien aktivieren";
-"ENABLE_ENDLESS_LINES_INFO_MESSAGE" = "Mit dieser Option können Sie über die normale Anzahl von Zeilen hinaus schreiben, die die Größe zulässt.
-
-WARNUNG: Wenn eine Notiz die Größe des Notizblocks überschreitet und Sie diese Option deaktivieren, können Sie Ihrer Notiz nichts mehr hinzufügen. Löschen Sie den Text, bis er passt, erhöhen Sie die Größe oder aktivieren Sie diese Option, um das Hinzufügen von mehr Text zu ermöglichen";
+"ENABLE_ENDLESS_LINES_INFO_MESSAGE" = "Mit dieser Option können Sie über die normale Anzahl von Zeilen hinaus schreiben, die die Größe zulässt.\n\nWARNUNG: Wenn eine Notiz die Größe des Notizblocks überschreitet und Sie diese Option deaktivieren, können Sie Ihrer Notiz nichts mehr hinzufügen. Löschen Sie den Text, bis er passt, erhöhen Sie die Größe oder aktivieren Sie diese Option, um das Hinzufügen von mehr Text zu ermöglichen";
 
   /* Auto Hide */
 "AUTO_HIDE_NOTES" = "Notizen automatisch ausblenden";
-"AUTO_HIDE_NOTES_INFO_MESSAGE" = "Diese Option blendet Libellum automatisch aus, wenn nur eine Notiz vorhanden ist und diese keinen Text enthält.
-
-Erfordert die Aktivierung von "Gesten".";
+"AUTO_HIDE_NOTES_INFO_MESSAGE" = "Diese Option blendet Libellum automatisch aus, wenn nur eine Notiz vorhanden ist und diese keinen Text enthält.\n\nErfordert die Aktivierung von "Gesten".";
 
   /* Auto Start Typing */
 "AUTO_START_TYPING" = "Auto-Start-Eingabe";
-"AUTO_START_TYPING_INFO_MESSAGE" = "Diese Option zeigt automatisch die Tastatur für Libellum an, sobald sie sichtbar gemacht wurde, wenn nur eine Notiz und kein Text vorhanden ist.
-
-Dies funktioniert nur, wenn das Gerät bereits authentifiziert ist oder wenn „Authentifizierung erforderlich“ deaktiviert ist.";
+"AUTO_START_TYPING_INFO_MESSAGE" = "Diese Option zeigt automatisch die Tastatur für Libellum an, sobald sie sichtbar gemacht wurde, wenn nur eine Notiz und kein Text vorhanden ist.\n\nDies funktioniert nur, wenn das Gerät bereits authentifiziert ist oder wenn „Authentifizierung erforderlich“ deaktiviert ist.";
 
   /* Text Options Group Cell */
 "TEXT_OPTIONS_GROUP_CELL" = "Text-Optionen";
