@@ -1,55 +1,55 @@
   /* Size */
-"TINY_NOTE_SIZE" = "";
-"COMPACT_NOTE_SIZE" = "";
-"MEDIUM_NOTE_SIZE" = "";
-"LARGE_NOTE_SIZE" = "";
+"TINY_NOTE_SIZE" = "Winzig";
+"COMPACT_NOTE_SIZE" = "Kompakt";
+"MEDIUM_NOTE_SIZE" = "Mittel";
+"LARGE_NOTE_SIZE" = "Groß";
 
   /* Style */
-"LIGHT_STYLE_MODE" = "";
-"DARK_STYLE_MODE" = "";
-"COLORIZED_STYLE_MODE" = "";
-"ADAPTIVE_STYLE_MODE" = "";
+"LIGHT_STYLE_MODE" = "Hell-Modus";
+"DARK_STYLE_MODE" = "Dunkel-Modus";
+"COLORIZED_STYLE_MODE" = "Eingefärbt";
+"ADAPTIVE_STYLE_MODE" = "Adaptiv";
 
   /* Corner Radius */
-"CORNER_RADIUS" = "";
+"CORNER_RADIUS" = "Eckenradius";
 
   /* Color Options */
-"COLOR_OPTIONS" = "";
+"COLOR_OPTIONS" = "Farboptionen";
 
   /* General Options */
-"GENERAL_OPTIONS" = "";
+"GENERAL_OPTIONS" = "Allgemeine Optionen";
 
   /* Securty & Backup Group Cell */
-"SECURITY_BACKUP_GROUP_CELL" = "";
+"SECURITY_BACKUP_GROUP_CELL" = "Sicherheit & Backup";
 
   /* Require Authentication */
-"REQUIRE_AUTHENTICATION" = "";
-"REQUIRE_AUTHENTICATION_INFO_MESSAGE" = "";
+"REQUIRE_AUTHENTICATION" = "Authentifizierung erforderlich";
+"REQUIRE_AUTHENTICATION_INFO_MESSAGE" = "Diese Option verhindert das Anzeigen oder Bearbeiten von Notizen, bis das Gerät mit Face ID, Touch ID oder dem Passcode entsperrt wird.";
 
   /* Enable Note Backup */
-"ENABLE_NOTE_BACKUP" = "";
-"ENABLE_NOTE_BACKUP_INFO_MESSAGE" = "";
+"ENABLE_NOTE_BACKUP" = "Notiz-Backup aktivieren";
+"ENABLE_NOTE_BACKUP_INFO_MESSAGE" = "Mit dieser Option werden Ihre Notizen einmal pro Respring gesichert.";
 
   /* Manage Backup */
-"MANAGE_BACKUP" = "";
+"MANAGE_BACKUP" = "Backup verwalten";
 
   /* Note Visibility Gestures Group Cell */
-"NOTE_VISIBILITY_GESTURES_GROUP_CELL" = "";
+"NOTE_VISIBILITY_GESTURES_GROUP_CELL" = "Sichtbarkeitsgesten für Notizen";
 
   /* Enable Gestures */
-"ENABLE_GESTURES" = "";
+"ENABLE_GESTURES" = "Sichtbarkeitsgesten für Notizen";
 
   /* Gesture Options */
-"GESTURE_OPTIONS" = "";
+"GESTURE_OPTIONS" = "Gesten aktivieren";
 
   /* Support Group Cell */
-"SUPPORT_GROUP_CELL" = "";
+"SUPPORT_GROUP_CELL" = "Unterstützung";
 
   /* Credits */
-"CREDITS" = "";
+"CREDITS" = "Danksagung";
 
   /* Github Detail */
-"GITHUB_DETAIL" = "";
+"GITHUB_DETAIL" = "Den Quellcode finden Sie hier!";
 
   /* PayPal Detail */
-"PAYPAL_DETAIL" = "";
+"PAYPAL_DETAIL" = "Füttere meine Steam-Kaufssucht!";
