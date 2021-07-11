@@ -5,6 +5,7 @@ Collaborative localization for my tweak Libellum.
 | -------- | ----------- |
 | English | Lacertosus |
 | French | Redentic |
+| German | pimpmyidevice |
 
 ## Want to Contribute?
 A new language localization? Create a pull request using the template localization proj folder.
