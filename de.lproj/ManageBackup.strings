@@ -1,0 +1,39 @@
+  /* Generic */
+"CONFIRM" = "";
+"CANCEL" = "";
+
+  /* Backup Management */
+"BACKUP_MANAGEMENT" = "";
+
+  /* Backup Description */
+"BACKUP_DESCRIPTION" = "";
+
+  /* View Backup */
+"VIEW_BACKUP" = "";
+
+  /* Backup Now */
+"BACKUP_NOW" = "";
+
+  /* Restore */
+"RESTORE_BACKUP" = "";
+
+  /* Delete */
+"DELETE_BACKUP" = "";
+
+  /* Done */
+"DONE" = "";
+
+  /* Action Feedback */
+"ERROR_VIEWING_BACKUP" = "";
+"NO_EXISTING_BACKUP" = "";
+"BACKUP_SUCCESSFUL" = "";
+"BACKUP_NO_NOTES" = "";
+
+  /* Restore Alert */
+"RESTORE_MESSAGE" = "";
+"RESTORE_NO_NOTES" = "";
+
+  /* Delete Alert */
+"DELETE_MESSAGE" = "";
+"DELETE_SUCCESSFUL" = "";
+"DELETE_NO_NOTES" = "";

@@ -1,0 +1,30 @@
+  /* Alpha */
+"ALPHA" = "";
+
+  /* Kalm Tint Color */
+"USE_KALM_TINT_COLOR" = "";
+
+  /* Ignore Adaptive Colors */
+"IGNORE_ADAPTIVE_COLORS" = "";
+"IGNORE_ADAPTIVE_COLORS_INFO_MESSAGE" = "";
+
+  /* Background Color */
+"SET_BACKGROUND_COLOR" = "";
+
+  /* Font Color */
+"SET_FONT_COLOR" = "";
+
+  /* Lock Color */
+"SET_LOCK_ICON_COLOR" = "";
+
+  /* Tint Color */
+"SET_TINT_COLOR" = "";
+
+  /* Border Group Cell */
+"BORDER_GROUP_CELL" = "";
+
+  /* Border Color */
+"SET_BORDER_COLOR" = "";
+
+  /* Border Width */
+"BORDER_WIDTH" = "";

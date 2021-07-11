@@ -1,0 +1,18 @@
+  /* Gesture Feedback */
+"GESTURE_FEEDBACK" = "";
+
+  /* Feedback Options */
+"LIGHT_FEEDBACK" = "";
+"HEAVY_FEEDBACK" = "";
+"TRIPLE_FEEBACK" = "";
+
+  /* Left Swipe Gesture */
+"LEFT_SWIPE_GESTURE" = "";
+"LEFT_SWIPE_GESTURE_INFO_MESSAGE" = "";
+
+  /* Left Swipe Gesture */
+"TRIPLE_TAP_GESTURE" = "";
+
+  /* Left Swipe Gesture */
+"EDGE_SWIPE_GESTURE" = "";
+"EDGE_SWIPE_GESTURE_INFO_MESSAGE" = "";
