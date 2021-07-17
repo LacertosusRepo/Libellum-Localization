@@ -11,7 +11,7 @@
 
   /* Auto Hide */
 "AUTO_HIDE_NOTES" = "Notizen automatisch ausblenden";
-"AUTO_HIDE_NOTES_INFO_MESSAGE" = "Diese Option blendet Libellum automatisch aus, wenn nur eine Notiz vorhanden ist und diese keinen Text enthält.\n\nErfordert die Aktivierung von "Gesten".";
+"AUTO_HIDE_NOTES_INFO_MESSAGE" = "Diese Option blendet Libellum automatisch aus, wenn nur eine Notiz vorhanden ist und diese keinen Text enthält.\n\nErfordert die Aktivierung von \"Gesten\".";
 
   /* Auto Start Typing */
 "AUTO_START_TYPING" = "Auto-Start-Eingabe";
@@ -50,7 +50,7 @@
 
   /* Hide Old Notification Text */
 "HIDE_OLD_NOTIFICATION_TEXT" = "Alte Benachrichtigungen ausblenden";
-"HIDE_OLD_NOTIFICATION_TEXT_INFO_MESSAGE" = "Diese Option blendet "Keine älteren Benachrichtigungen" auf dem Sperrbildschirm aus.";
+"HIDE_OLD_NOTIFICATION_TEXT_INFO_MESSAGE" = "Diese Option blendet \"Keine älteren Benachrichtigungen\" auf dem Sperrbildschirm aus.";
 
   /* Hide Quick Actions */
 "HIDE_QUICK_ACTIONS" = "Schnellaktionen ausblenden";
